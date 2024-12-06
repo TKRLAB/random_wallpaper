@@ -1,0 +1,19 @@
+{
+  "source": "d",
+  "tags": "tag1+tag2",
+  "limit": 1,
+  "delay": 10,
+  "screen_resolution": "1920x1080",
+  "yandere": {
+    "username": "your_yandere_username",
+    "api_key": "your_yandere_api_key"
+  },
+  "danbooru": {
+    "username": "your_danbooru_username",
+    "api_key": "your_danbooru_api_key"
+  },
+  "gelbooru": {
+    "api_key": "your_gelbooru_api_key",
+    "user_id": "your_gelbooru_user_id"
+  }
+}
